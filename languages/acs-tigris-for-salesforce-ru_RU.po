@@ -1,0 +1,744 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tigris for Salesforce\n"
+"POT-Creation-Date: 2018-04-05 16:33+0300\n"
+"PO-Revision-Date: 2018-04-05 16:41+0300\n"
+"Last-Translator: \n"
+"Language-Team: Amcon Soft\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core/function.php:84
+msgid "Vacancy Categories"
+msgstr "Категория вакансии"
+
+#: core/function.php:85 core/function.php:94
+msgid "Vacancies Categories"
+msgstr "Категории вакансии"
+
+#: core/function.php:86
+msgid "Search Categories"
+msgstr "Поиск категорий"
+
+#: core/function.php:87
+msgid "All Vacancies Categories"
+msgstr "Все категории вакансии"
+
+#: core/function.php:88
+msgid "Parent Vacancies Categories"
+msgstr "Родительская категория вакансии"
+
+#: core/function.php:89
+msgid "Parent Vacancies Categories:"
+msgstr "Родительская категория вакансии:"
+
+#: core/function.php:90
+msgid "Edit Category"
+msgstr "Изменить категорию"
+
+#: core/function.php:91
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+#: core/function.php:92
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+#: core/function.php:93
+msgid "New Categories"
+msgstr "Новая категория"
+
+#: core/function.php:95
+msgid "Popular Vacancies"
+msgstr "Популярные вакансии"
+
+#: core/function.php:96 core/function.php:133
+msgid "View Vacancy"
+msgstr "Просмотреть вакансию"
+
+#: core/function.php:97
+msgid "View Vacancy category"
+msgstr "Просмотреть категорию вакансий"
+
+#: core/function.php:100 core/function.php:124
+msgid "Vacancies"
+msgstr "Вакансии"
+
+#: core/function.php:102
+msgid "Category for Tigris Vacancy"
+msgstr "Категория для Tigris вакансий"
+
+#: core/function.php:125 core/function.php:141
+msgid "Vacancy"
+msgstr "Вакансия"
+
+#: core/function.php:126
+msgid "Tigris Vacancies"
+msgstr "Tigris вакансия"
+
+#: core/function.php:127
+msgid "All Vacancies"
+msgstr "Все вакансии"
+
+#: core/function.php:129
+msgid "Add New Vacancy"
+msgstr "Добавить новую вакансию"
+
+#: core/function.php:130 core/function.php:417
+msgid "Edit"
+msgstr "Редактировать"
+
+#: core/function.php:131
+msgid "Edit Vacancy"
+msgstr "Редактировать вакансию"
+
+#: core/function.php:132
+msgid "New Vacancy"
+msgstr "Новая вакансия"
+
+#: core/function.php:134
+msgid "Search Vacancy"
+msgstr "Поиск вакансии"
+
+#: core/function.php:135
+msgid "Not found Vacancies"
+msgstr "Не найдено вакансий"
+
+#: core/function.php:136
+msgid "Not found Vacancies in trash"
+msgstr "Не найдено вакансий в корзине"
+
+#: core/function.php:137 core/function.php:138
+msgid "Parent Vacancy"
+msgstr "Родительская вакансия"
+
+#: core/function.php:173
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr "Метки"
+
+#: core/function.php:174
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr "Метка"
+
+#: core/function.php:175
+msgid "Search Tag"
+msgstr "Поиск метки"
+
+#: core/function.php:176
+msgid "Popular Tags"
+msgstr "Популярные метки"
+
+#: core/function.php:177
+msgid "All Tags"
+msgstr "Все метки"
+
+#: core/function.php:180
+msgid "Edit Tag"
+msgstr "Редактировать метку"
+
+#: core/function.php:181
+msgid "Update Tag"
+msgstr "Обновить метку"
+
+#: core/function.php:182
+msgid "Add New Tag"
+msgstr "Создать метку"
+
+#: core/function.php:183
+msgid "New Tag Name"
+msgstr "Имя метки"
+
+#: core/function.php:184
+msgid "Separate tags with commas"
+msgstr "Разделяйте метки запятыми"
+
+#: core/function.php:185
+msgid "Add or remove tags"
+msgstr "Добавить или удалить матки"
+
+#: core/function.php:186
+msgid "Choose from the most used tags"
+msgstr "Выберите из наиболее используемых меток"
+
+#: core/function.php:187
+msgid "No tags found."
+msgstr "Метки не найдены."
+
+#: core/function.php:188
+msgid "Tags"
+msgstr "Метки"
+
+#: core/function.php:237
+msgid "Vacancy description"
+msgstr "Описание вакансии"
+
+#: core/function.php:251 core/function.php:493
+#: templates/form-tigrisvacancy.php:99
+msgid "Location"
+msgstr "Местоположение"
+
+#: core/function.php:255
+msgid "Education level"
+msgstr "Уровень образования"
+
+#: core/function.php:259
+msgid "Work week"
+msgstr "Рабочая неделя"
+
+#: core/function.php:263
+msgid "Salary level (min)"
+msgstr "Уровень заработной платы (мин)"
+
+#: core/function.php:267
+msgid "Salary level (max)"
+msgstr "Уровень заработной платы (Макс.)"
+
+#: core/function.php:271
+msgid "Sector of economy"
+msgstr "Сектор экономики"
+
+#: core/function.php:275
+msgid "Type of employment"
+msgstr "Тип занятости"
+
+#: core/function.php:279 core/function.php:412 core/function.php:428
+#: core/function.php:1015
+msgid "Branch"
+msgstr "Филиал"
+
+#: core/function.php:284
+msgid "Interior"
+msgstr "Внутренняя вакансия"
+
+#: core/function.php:411
+msgid "Branches"
+msgstr "Филиалы"
+
+#: core/function.php:413
+msgid "Tigris Branches"
+msgstr "Tigris филиалы"
+
+#: core/function.php:414
+msgid "All Branches"
+msgstr "Все филиалы"
+
+#: core/function.php:416
+msgid "Add New Branch"
+msgstr "Добавить новый филиал"
+
+#: core/function.php:418
+msgid "Edit Branch"
+msgstr "Редактировать филиал"
+
+#: core/function.php:419
+msgid "New Branch"
+msgstr "Новый филиал"
+
+#: core/function.php:420
+msgid "View Branch"
+msgstr "Просмотр филиала"
+
+#: core/function.php:421
+msgid "Search Branch"
+msgstr "Поиск филиала"
+
+#: core/function.php:422
+msgid "Not found Branches"
+msgstr "Не найдено филиалов"
+
+#: core/function.php:423
+msgid "Not found Branches in trash"
+msgstr "Не найдено филиалов в корзине"
+
+#: core/function.php:424 core/function.php:425
+msgid "Parent Branch"
+msgstr "Родительский филиал"
+
+#: core/function.php:465
+msgid "Branch options"
+msgstr "Параметры филиала"
+
+#: core/function.php:497
+msgid "Street & house"
+msgstr "Улица и дом"
+
+#: core/function.php:501
+msgid "ZIP & ​place"
+msgstr "Почтовый индекс и место"
+
+#: core/function.php:505
+msgid "E-mail"
+msgstr "E-mail"
+
+#: core/function.php:509
+msgid "Phone"
+msgstr "Телефон"
+
+#: core/function.php:515
+msgid "Employees"
+msgstr "Сотрудники"
+
+#: core/function.php:515
+msgid "multiselect"
+msgstr "множественный выбор"
+
+#: core/function.php:568
+msgid "Choose..."
+msgstr "Выберите..."
+
+#: core/function.php:834 core/function.php:893
+msgid "The application for the job was sent successfully."
+msgstr "Форма успешно отправлена."
+
+#: core/function.php:844
+msgid "The vacancies were successfully sent to Tigris."
+msgstr "Вакансии были успешно отправлена."
+
+#: core/function.php:846
+msgid ""
+"There was a failure to send a job application for the Salesforce service."
+msgstr "Не удалось отправить заявку на работу."
+
+#: core/function.php:876
+msgid "Failed to send application for vacancy."
+msgstr "Не удалось отправить заявку на вакансию."
+
+#: core/function.php:879
+msgid "Job vacancy"
+msgstr "Вакансия"
+
+#: core/function.php:880
+msgid "Applicant`s name"
+msgstr "Имя заявителя"
+
+#: core/function.php:881
+msgid "Applicant`s e-mail"
+msgstr "E-mail"
+
+#: core/function.php:882
+msgid "Applicant`s message"
+msgstr "Сообщение заявителя"
+
+#: core/function.php:884
+msgid "Referer URL"
+msgstr "Referer URL"
+
+#: core/function.php:899
+msgid "Send failed. Please try again later."
+msgstr "Отправить не удалось. Пожалуйста, повторите попытку позже."
+
+#: core/function.php:915
+msgid "Tigris author"
+msgstr "Tigris автор"
+
+#: core/function.php:956
+msgid "Change Current Image"
+msgstr "Изменить текущие изображение"
+
+#: core/function.php:956
+msgid "Upload New Image"
+msgstr "Загрузить картинку"
+
+#: core/function.php:962
+msgid "Employee Information"
+msgstr "Сведения о работнике"
+
+#: core/function.php:967
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/function.php:983
+msgid "​Phone number (office)"
+msgstr "Телефон (офис)"
+
+#: core/function.php:999
+msgid "​Phone number (mobile)"
+msgstr "Телефон (мобильный)"
+
+#: core/function.php:1031
+msgid "Description"
+msgstr "Описание"
+
+#: core/function.php:1099
+msgid "The user is created automatically."
+msgstr "Пользователь создан автоматически."
+
+#: core/function.php:1158
+msgid "The category is created automatically."
+msgstr "Категория создана автоматически."
+
+#: core/options.php:38
+msgid "extension"
+msgstr "расширение"
+
+#: core/options.php:39
+msgid "Tigris"
+msgstr "Tigris"
+
+#: core/options.php:83
+msgid "Enter the channel ID."
+msgstr "Введите ID канала."
+
+#: core/options.php:84
+msgid "Organization Id"
+msgstr "ID организации"
+
+#: core/options.php:87
+msgid "Enter the login to access the channel."
+msgstr "Введите логин для доступа к каналу."
+
+#: core/options.php:88
+msgid "Salesforce Login"
+msgstr "Логина Salesforce"
+
+#: core/options.php:91
+msgid "Enter the password to access the channel."
+msgstr "Введите пароль для доступа к каналу."
+
+#: core/options.php:92
+msgid "Salesforce Password"
+msgstr "Пароль Salesforce"
+
+#: core/options.php:95
+msgid "Enter the name of the category you want to retrieve from."
+msgstr "Введите имя категории, из которой вы хотите получить."
+
+#: core/options.php:96
+msgid "Category name"
+msgstr "Название категории"
+
+#: core/options.php:99
+msgid "Enter the ID of the author whose entries you want to receive."
+msgstr "Введите ID автора вакансий, которое вы хотите показать."
+
+#: core/options.php:100
+msgid "Author ID"
+msgstr "ID автора"
+
+#: core/options.php:103
+msgid ""
+"The form will be sent only if there is a failure in sending to Salesforce."
+msgstr "Форма будет отправлена только в случае сбоя при отправке в Salesforce."
+
+#: core/options.php:104
+msgid "E-mail for send forms"
+msgstr "E-mail для отправки форм"
+
+#: core/options.php:107
+msgid "Enable if you want to receive all forms by e-mail."
+msgstr "Включить, если вы хотите получать все формы по электронной почте."
+
+#: core/options.php:108
+msgid "Enable sending forms to email"
+msgstr "Включить отправку форм по электронной почте"
+
+#: core/options.php:111
+msgid "If left blank, then the application will be sent in the background."
+msgstr "Если оставить пустым, приложение будет отправлено в фоновом режиме."
+
+#: core/options.php:112
+msgid "Forwarding after submitting the form"
+msgstr "Пересылка после отправки формы"
+
+#: core/options.php:115
+msgid ""
+"Job placement regions for aplication form. Each region is entered through \";"
+"\".<br>Example: Texas;Alabama;"
+msgstr ""
+"Регионы расположения вакансий. Каждый регион вводится через \"; \". "
+"<br>Пример: Texas; Alabama;"
+
+#: core/options.php:116
+msgid "Job locations"
+msgstr "Местоположение вакансии"
+
+#: core/options.php:119
+msgid ""
+"Enter the default category name. If you leave empty, default category name "
+"will be \"no-vacancies\"."
+msgstr ""
+"Введите название категории по умолчанию. Если вы оставите пустым, имя "
+"категории по умолчанию будет \"no-vacancies\"."
+
+#: core/options.php:120
+msgid "Default category"
+msgstr "Категория по умолчанию"
+
+#: core/options.php:123
+msgid "Disable categories functionality."
+msgstr "Отключает функционал генерации категорий."
+
+#: core/options.php:124
+msgid "Disable categories"
+msgstr "Отключить категории"
+
+#: core/options.php:127
+msgid "Disable branches functionality."
+msgstr "Отключает функционал генерации филиалов."
+
+#: core/options.php:128
+msgid "Disable branches"
+msgstr "Отключить филиалы"
+
+#: core/options.php:131
+msgid "Disable vacancies author functionality."
+msgstr "Отключает функционал генерации авторов вакансий."
+
+#: core/options.php:132
+msgid "Disable vacancies author"
+msgstr "Отключить авторов вакансий"
+
+#: core/options.php:155
+msgid "Connect user templates"
+msgstr "Подключить пользовательские шаблоны"
+
+#: core/options.php:157
+msgid "1. Create a new \"tigris\" folder in your theme."
+msgstr "1. Создайте новую папку \"tigris\" в своей теме."
+
+#: core/options.php:158
+msgid "2. Add your template to this new folder:"
+msgstr "2. Добавьте свой шаблон в эту новую папку:"
+
+#: core/options.php:159
+msgid "- for the page of the list of vacancies (category-tigrisvacancies.php)."
+msgstr "- для страницы списка вакансий (категория-tigrisvacancies.php)."
+
+#: core/options.php:160
+msgid "- for the loadable AJAX vacancy block (ajax-tigrisvacancy.php)."
+msgstr "- для загружаемых через AJAX блоков ваканси (ajax-tigrisvacancy.php)."
+
+#: core/options.php:161
+msgid "- for a single job page (single-tigrisvacancy.php)."
+msgstr "- для одиночной страницы вакансии (single-tigrisvacancy.php)."
+
+#: core/options.php:162
+msgid "- for the form of the answer to the vacancy (form-tigrisvacancy.php)."
+msgstr "-для формы ответа на вакансии (форма tigrisvacancy.php)."
+
+#: core/options.php:163
+msgid "- for a single branch page (single-tigrisbranch.php)."
+msgstr "- для одиночной страницы филиала (single-tigrisbranch.php)."
+
+#: core/options.php:164
+msgid "P.S.:"
+msgstr "P.S.:"
+
+#: core/options.php:165
+msgid "The default templates are located in the plugin folder \"templates\"."
+msgstr "Шаблоны по умолчанию находятся в папке плагина \"templates\"."
+
+#: core/options.php:170
+msgid "Form connection via shortcode."
+msgstr "Форма подключения через короткий код."
+
+#: core/options.php:172
+msgid ""
+"To show the application form for work in your theme template, insert a short "
+"code."
+msgstr ""
+"Чтобы показать форму заявки на работу в шаблоне темы, вставьте короткий код."
+
+#: core/options.php:173
+msgid "Example:"
+msgstr "Пример:"
+
+#: core/options.php:174
+msgid "- outside the vacancy loop"
+msgstr "- вне цикла вывода вакансий"
+
+#: core/options.php:175
+msgid "- inside the vacancy loop"
+msgstr "- внутри цикла вывода вакансий"
+
+#: core/options.php:176
+msgid "- in php code"
+msgstr "- в php коде"
+
+#: core/options.php:181
+msgid "Attention"
+msgstr "Внимание"
+
+#: core/options.php:183
+msgid "Do not forget to re-save permanent links (Settings -> Permalinks)."
+msgstr ""
+"Не забудьте повторно сохранить постоянные ссылки (Настройки -> Постоянная "
+"ссылка)."
+
+#: core/options.php:184
+msgid "Link to the list of vacancies:"
+msgstr "Ссылка на список вакансий:"
+
+#: core/options.php:184
+msgid "your site permalink"
+msgstr "URL вашего сайта"
+
+#: core/options.php:239
+msgid "Select"
+msgstr "Выбрать"
+
+#: core/options.php:318
+msgid "Vacancy Region"
+msgstr "Регион вакансии"
+
+#: core/options.php:319
+msgid "Vacancy Education"
+msgstr "Уровень обазования"
+
+#: core/options.php:320
+msgid "Vacancy Type"
+msgstr "Тип вакансии"
+
+#. Plugin Name of the plugin/theme
+#: core/page-setup.php:35
+msgid "Tigris for Salesforce"
+msgstr "Tigris для Salesforce"
+
+#: core/page-setup.php:51
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: languages/lang-base.php:30
+msgid ""
+"company specializes in developing software, web development, mobile "
+"application development and web design. While developing and improving "
+"innovative solutions in IT field, we aim at putting maximum efforts in "
+"changing the present and the future of every person and the company for the "
+"better!"
+msgstr ""
+"компания специализируется на разработке программного обеспечения, веб-"
+"разработке, разработке мобильных приложений и веб-дизайне. Развивая и "
+"совершенствуя инновационные решения в области ИТ, мы стремимся прилагать "
+"максимальные усилия для изменения настоящего и будущего каждого человека и "
+"компании к лучшему!"
+
+#: templates/category-tigrisvacancies.php:30
+#, php-format
+msgid "Search our %s vacancies"
+msgstr "Найдено %s вакансий"
+
+#: templates/category-tigrisvacancies.php:96
+msgid "Loading..."
+msgstr "Загрузка…"
+
+#: templates/category-tigrisvacancies.php:97
+msgid "Show more"
+msgstr "Показать далее"
+
+#: templates/form-tigrisvacancy.php:40
+msgid "First name"
+msgstr "Имя"
+
+#: templates/form-tigrisvacancy.php:47
+msgid "Enter your name."
+msgstr "Введите ваше имя."
+
+#: templates/form-tigrisvacancy.php:54
+msgid "Last name"
+msgstr "Фамилия"
+
+#: templates/form-tigrisvacancy.php:62
+msgid "Enter the last name."
+msgstr "Введите вашу фамилию."
+
+#: templates/form-tigrisvacancy.php:69
+msgid "Email"
+msgstr "Email"
+
+#: templates/form-tigrisvacancy.php:77
+msgid "Please enter a valid e-mail."
+msgstr "Пожалуйста, введите корректный адрес электронной почты."
+
+#: templates/form-tigrisvacancy.php:84
+msgid "Contact phone"
+msgstr "Контактный номер телефона"
+
+#: templates/form-tigrisvacancy.php:92
+msgid "Please enter a valid phone number."
+msgstr "Пожалуйста укажите действующий номер телефона."
+
+#: templates/form-tigrisvacancy.php:105
+msgid "Choose region."
+msgstr "Выберите регион."
+
+#: templates/form-tigrisvacancy.php:106
+msgid "Choose a location"
+msgstr "Выберите местоположение"
+
+#: templates/form-tigrisvacancy.php:123
+msgid "Attach your resume."
+msgstr "Прикрепите ваше резюме."
+
+#: templates/form-tigrisvacancy.php:125
+msgid "CV"
+msgstr "Резюме"
+
+#: templates/form-tigrisvacancy.php:126 templates/form-tigrisvacancy.php:142
+msgid "Upload"
+msgstr "Загрузить"
+
+#: templates/form-tigrisvacancy.php:139
+msgid "Attach a letter of recommendation."
+msgstr "Рекомендательное письмо."
+
+#: templates/form-tigrisvacancy.php:141
+msgid "Motivation letter (optional)"
+msgstr "Мотивационное письмо (необязательно)"
+
+#: templates/form-tigrisvacancy.php:148
+msgid "Note"
+msgstr "Примечание"
+
+#: templates/form-tigrisvacancy.php:156
+msgid "Add your comments."
+msgstr "Добавте комментарий."
+
+#: templates/form-tigrisvacancy.php:164
+msgid "I agree to the Terms and Conditions"
+msgstr "Я согласен с всеми Правилами и Условиями"
+
+#: templates/form-tigrisvacancy.php:173
+msgid "Accept the Terms and Conditions of the agreement."
+msgstr "Примите Условия соглашения."
+
+#: templates/form-tigrisvacancy.php:183
+msgid "Fill in all marked fields."
+msgstr "Заполните все обязательные поля."
+
+#: templates/form-tigrisvacancy.php:184
+msgid "Upload..."
+msgstr "Загрузить ..."
+
+#: templates/form-tigrisvacancy.php:185
+msgid "Send application"
+msgstr "Отправить форму"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.amconsoft.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integration Tigris user application for Salesforce in Wordpress."
+msgstr "Интеграция приложения Tigris для CRM Salesforce в Wordpress."
+
+#. Author of the plugin/theme
+msgid "Amcon Soft"
+msgstr ""

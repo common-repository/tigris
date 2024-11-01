@@ -1,0 +1,791 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tigris for Salesforce\n"
+"POT-Creation-Date: 2018-06-04 17:00+0300\n"
+"PO-Revision-Date: 2018-07-13 13:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: Amcon Soft\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core/function.php:84
+msgid "Vacancy Categories"
+msgstr "Vacature categorieën"
+
+#: core/function.php:85 core/function.php:94
+msgid "Vacancies Categories"
+msgstr "Vacatures Categorieën"
+
+#: core/function.php:86
+msgid "Search Categories"
+msgstr "Zoek Categoriën"
+
+#: core/function.php:87
+msgid "All Vacancies Categories"
+msgstr "Alle vacature categoriën"
+
+#: core/function.php:88
+msgid "Parent Vacancies Categories"
+msgstr "Parent vacature categorieën"
+
+#: core/function.php:89
+msgid "Parent Vacancies Categories:"
+msgstr "Parent vacature categorieën:"
+
+#: core/function.php:90
+msgid "Edit Category"
+msgstr "Categorie bewerken"
+
+#: core/function.php:91
+msgid "Update Category"
+msgstr "Categorie bijwerken"
+
+#: core/function.php:92
+msgid "Add New Category"
+msgstr "Nieuwe categorie toevoegen"
+
+#: core/function.php:93
+msgid "New Categories"
+msgstr "Nieuwe categorie"
+
+#: core/function.php:95
+msgid "Popular Vacancies"
+msgstr "Uitgelichte vacatures"
+
+#: core/function.php:96 core/function.php:133
+msgid "View Vacancy"
+msgstr "Bekijk vacature"
+
+#: core/function.php:97
+msgid "View Vacancy category"
+msgstr "Bekijk vacature categorie"
+
+#: core/function.php:100 core/function.php:124
+msgid "Vacancies"
+msgstr "Vacatures"
+
+#: core/function.php:102
+msgid "Category for Tigris Vacancy"
+msgstr "Categorie voor Tigris vacature"
+
+#: core/function.php:125 core/function.php:141
+msgid "Vacancy"
+msgstr "Vacature"
+
+#: core/function.php:126
+msgid "Tigris Vacancies"
+msgstr "Tigris vacatures"
+
+#: core/function.php:127
+msgid "All Vacancies"
+msgstr "Alle vacatures"
+
+#: core/function.php:129
+msgid "Add New Vacancy"
+msgstr "Nieuwe vacature toevoegen"
+
+#: core/function.php:130 core/function.php:416
+msgid "Edit"
+msgstr "Bewerken"
+
+#: core/function.php:131
+msgid "Edit Vacancy"
+msgstr "Bewerk vacature"
+
+#: core/function.php:132
+msgid "New Vacancy"
+msgstr "Nieuwe vacature"
+
+#: core/function.php:134
+msgid "Search Vacancy"
+msgstr "Vacature zoeken"
+
+#: core/function.php:135
+msgid "Not found Vacancies"
+msgstr "Geen vacatures gevonden"
+
+#: core/function.php:136
+msgid "Not found Vacancies in trash"
+msgstr "Geen vacatures in prullenbak gevonden"
+
+#: core/function.php:137 core/function.php:138
+msgid "Parent Vacancy"
+msgstr "Vacature hoofd"
+
+#: core/function.php:173
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: core/function.php:174
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: core/function.php:175
+msgid "Search Tag"
+msgstr "Tag zoeken"
+
+#: core/function.php:176
+msgid "Popular Tags"
+msgstr "Populaire tags"
+
+#: core/function.php:177
+msgid "All Tags"
+msgstr "Alle tags"
+
+#: core/function.php:180
+msgid "Edit Tag"
+msgstr "Tag bewerken"
+
+#: core/function.php:181
+msgid "Update Tag"
+msgstr "Update tag"
+
+#: core/function.php:182
+msgid "Add New Tag"
+msgstr "Nieuwe tag toevoegen"
+
+#: core/function.php:183
+msgid "New Tag Name"
+msgstr "Naam nieuwe tag"
+
+#: core/function.php:184
+msgid "Separate tags with commas"
+msgstr "Scheidt tags door komma's te gebruiken"
+
+#: core/function.php:185
+msgid "Add or remove tags"
+msgstr "Tag toevoegen/verwijderen"
+
+#: core/function.php:186
+msgid "Choose from the most used tags"
+msgstr "Kies uit meest gebruikte tags"
+
+#: core/function.php:187
+msgid "No tags found."
+msgstr "Geen tags gevonden."
+
+#: core/function.php:188
+msgid "Tags"
+msgstr "Tag"
+
+#: core/function.php:237
+msgid "Vacancy description"
+msgstr "Vacature omschrijving"
+
+#: core/function.php:251 core/function.php:493
+#: templates/form-tigrisvacancy.php:100
+msgid "Location"
+msgstr "Locatie"
+
+#: core/function.php:255
+msgid "Education level"
+msgstr "Opleidingsniveau"
+
+#: core/function.php:259
+msgid "Work week"
+msgstr "Aantal uur"
+
+#: core/function.php:263
+msgid "Salary level (min)"
+msgstr "Salaris (vanaf)"
+
+#: core/function.php:267
+msgid "Salary level (max)"
+msgstr "Salaris (max)"
+
+#: core/function.php:271
+msgid "Sector of economy"
+msgstr "Branch"
+
+#: core/function.php:275
+msgid "Type of employment"
+msgstr "Dienstverband"
+
+#: core/function.php:279 core/function.php:411 core/function.php:427
+#: core/function.php:1029
+msgid "Branch"
+msgstr "Branche"
+
+#: core/function.php:284
+msgid "Interior"
+msgstr "Intern"
+
+#: core/function.php:410
+msgid "Branches"
+msgstr "Branches"
+
+#: core/function.php:412
+msgid "Tigris Branches"
+msgstr "Tigris branches"
+
+#: core/function.php:413
+msgid "All Branches"
+msgstr "Alle branches"
+
+#: core/function.php:415
+msgid "Add New Branch"
+msgstr "Nieuwe branch toevoegen"
+
+#: core/function.php:417
+msgid "Edit Branch"
+msgstr "Branche bewerken"
+
+#: core/function.php:418
+msgid "New Branch"
+msgstr "Nieuwe branche"
+
+#: core/function.php:419
+msgid "View Branch"
+msgstr "Branche bekijken"
+
+#: core/function.php:420
+msgid "Search Branch"
+msgstr "Branche zoeken"
+
+#: core/function.php:421
+msgid "Not found Branches"
+msgstr "Geen branche gevonden"
+
+#: core/function.php:422
+msgid "Not found Branches in trash"
+msgstr "Geen branche gevonden in prullenbak"
+
+#: core/function.php:423 core/function.php:424
+msgid "Parent Branch"
+msgstr "Hoofdbranche"
+
+#: core/function.php:464
+msgid "Branch options"
+msgstr "Branche opties"
+
+#: core/function.php:497
+msgid "Street & house"
+msgstr "Straatnaam + huisnummer"
+
+#: core/function.php:501
+msgid "ZIP & ​place"
+msgstr "Postcode + woonplaats"
+
+#: core/function.php:505
+msgid "E-mail"
+msgstr "E-mailadres"
+
+#: core/function.php:509
+msgid "Phone"
+msgstr "Telefoonnummer"
+
+#: core/function.php:534
+msgid "Employees"
+msgstr "Medewerkers"
+
+#: core/function.php:534
+msgid "multiselect"
+msgstr "meerkeuze"
+
+#: core/function.php:580
+msgid "Choose..."
+msgstr "Selecteren..."
+
+#: core/function.php:850 core/function.php:907
+msgid "The application for the job was sent successfully."
+msgstr "De vacature is succesvol verstuurd."
+
+#: core/function.php:860
+msgid "The vacancies were successfully sent to Tigris."
+msgstr "De vacature is succesvol naar Tigris gestuurd."
+
+#: core/function.php:862
+msgid ""
+"There was a failure to send a job application for the Salesforce service."
+msgstr ""
+"Er is een fout opgetreden bij het versturen van de vacature naar Tigris."
+
+#: core/function.php:892
+msgid "Job vacancy"
+msgstr "Vacature"
+
+#: core/function.php:893
+msgid "Applicant`s firstname"
+msgstr "Voornaam"
+
+#: core/function.php:894
+msgid "Applicant`s lastname"
+msgstr "Achternaam"
+
+#: core/function.php:895
+msgid "Applicant`s e-mail"
+msgstr "E-mailadres"
+
+#: core/function.php:896
+msgid "Applicant`s message"
+msgstr "Opmerking"
+
+#: core/function.php:898
+msgid "Referer URL"
+msgstr "Vacature URL"
+
+#: core/function.php:913
+msgid "Send failed. Please try again later."
+msgstr "Versturen mislukt. Probeer opnieuw aub."
+
+#: core/function.php:929
+msgid "Tigris author"
+msgstr "Tigris auteur"
+
+#: core/function.php:970
+msgid "Change Current Image"
+msgstr "Huidige afbeelding wijzigen"
+
+#: core/function.php:970
+msgid "Upload New Image"
+msgstr "Nieuwe afbeelding uploaden"
+
+#: core/function.php:976
+msgid "Employee Information"
+msgstr "Medewerker informatie"
+
+#: core/function.php:981
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/function.php:997
+msgid "​Phone number (office)"
+msgstr "Telefoonnummer (zakelijk)"
+
+#: core/function.php:1013
+msgid "​Phone number (mobile)"
+msgstr "Telefoonnummer (mobiel)"
+
+#: core/function.php:1045
+msgid "Description"
+msgstr "Omschrijving"
+
+#: core/function.php:1113
+msgid "The user is created automatically."
+msgstr "De gebruikers is automatisch gegenereerd."
+
+#: core/function.php:1170
+msgid "The category is created automatically."
+msgstr "De categorie is automatisch gegenereerd."
+
+#: core/options.php:38
+msgid "extension"
+msgstr "extensie"
+
+#: core/options.php:39
+msgid "Tigris"
+msgstr "Tigris"
+
+#: core/options.php:83
+msgid "Enter the channel ID."
+msgstr "Vul het org ID in."
+
+#: core/options.php:84
+msgid "Organization Id"
+msgstr "Organisatie ID"
+
+#: core/options.php:87
+msgid "Enter the login to access the channel."
+msgstr "Vul de Tigris gebruikersnaam in."
+
+#: core/options.php:88
+msgid "Salesforce Login"
+msgstr "Salesforce Inlog"
+
+#: core/options.php:91
+msgid "Enter the password to access the channel."
+msgstr "Vul het Tigris wachtwoord in."
+
+#: core/options.php:92
+msgid "Salesforce Password"
+msgstr "Salesforce wachtwoord"
+
+#: core/options.php:95
+msgid "Enter the name of the category you want to retrieve from."
+msgstr "Vul de naam van de categorie in waarvan je gegevens wilt ontvangen."
+
+#: core/options.php:96
+msgid "Category name"
+msgstr "Categorie naam"
+
+#: core/options.php:99
+msgid "Enter the ID of the author whose entries you want to receive."
+msgstr "Voer het ID in van de auteur waarvan je gegevens wilt ontvangen."
+
+#: core/options.php:100
+msgid "Author ID"
+msgstr "Auteur ID"
+
+#: core/options.php:103
+msgid ""
+"The form will be sent only if there is a failure in sending to Salesforce."
+msgstr ""
+"Het formulier wordt alleen verstuurd als er een foutmelding optreed bij het "
+"versturen naar Tigris."
+
+#: core/options.php:104
+msgid "E-mail for send forms"
+msgstr "E-mailadres om formulieren te versturen"
+
+#: core/options.php:107
+msgid "Enable if you want to receive all forms by e-mail."
+msgstr "Inschakelen als je alle sollicitaties per mail wilt ontvangen."
+
+#: core/options.php:108
+msgid "Enable sending forms to email"
+msgstr "Formulieren per mail inschakelen"
+
+#: core/options.php:111
+msgid "If left blank, then the application will be sent in the background."
+msgstr ""
+"Als je dit veld leeglaat wordt het formulier op de achtergrond verstuurd."
+
+#: core/options.php:112
+msgid "Forwarding after submitting the form"
+msgstr "Doorsturen na invullen van het sollicitatieformulier"
+
+#: core/options.php:115
+msgid ""
+"Job placement regions for aplication form. Each region is entered through \";"
+"\".<br>Example: Texas;Alabama;"
+msgstr ""
+"Locaties voor het sollicitatieformulier. De regio's worden gescheiden met \";"
+"\". <br>Bijvoorbeeld: Rotterdam;Utrecht;"
+
+#: core/options.php:116
+msgid "Job locations"
+msgstr "Job locaties"
+
+#: core/options.php:119
+msgid ""
+"Enter the default category name. If you leave empty, default category name "
+"will be \"no-vacancies\"."
+msgstr ""
+"Vul de standaard categorie in. Als je deze leeglaat zal de standaard "
+"categorie \"no-vacancies\" zijn."
+
+#: core/options.php:120
+msgid "Default category"
+msgstr "Standaard categorie"
+
+#: core/options.php:123
+msgid "Disable categories functionality."
+msgstr "Categorie functionaliteit uitschakelen."
+
+#: core/options.php:124
+msgid "Disable categories"
+msgstr "Categoriën uitschakelen"
+
+#: core/options.php:127
+msgid "Disable branches functionality."
+msgstr "Branche functionaliteit uitschakelen."
+
+#: core/options.php:128
+msgid "Disable branches"
+msgstr "Branches uitschakelen"
+
+#: core/options.php:131
+msgid "Disable vacancies author functionality."
+msgstr "Vacature eigenaar functionaliteit uitschakelen."
+
+#: core/options.php:132
+msgid "Disable vacancies author"
+msgstr "Vacature eigenaar uitschakelen"
+
+#: core/options.php:155
+msgid "Connect user templates"
+msgstr "Verbind gebruikerssjabloon"
+
+#: core/options.php:157
+msgid "1. Create a new \"tigris\" folder in your theme."
+msgstr "1. Maak een nieuwe \"tigris\" map in je thema."
+
+#: core/options.php:158
+msgid "2. Add your template to this new folder:"
+msgstr "2. Voeg het template in deze folder toe:"
+
+#: core/options.php:159
+msgid "- for the page of the list of vacancies (category-tigrisvacancies.php)."
+msgstr ""
+"- voor de pagina lijstweergave vacatures (category-tigrisvacancies.php)."
+
+#: core/options.php:160
+msgid "- for the loadable AJAX vacancy block (ajax-tigrisvacancy.php)."
+msgstr "- Voor het meer laden van vacatures (ajax-tigrisvacancy.php)."
+
+#: core/options.php:161
+msgid "- for a single job page (single-tigrisvacancy.php)."
+msgstr "- Voor de vacature detailpagina (single-tigrisvacancy.php)."
+
+#: core/options.php:162
+msgid "- for the form of the answer to the vacancy (form-tigrisvacancy.php)."
+msgstr "- Voor het sollicitatieformulier (form-tigrisvacancy.php)."
+
+#: core/options.php:163
+msgid "- for a single branch page (single-tigrisbranch.php)."
+msgstr "- Voor een branche detailpagina (single-tigrisbranch.php)."
+
+#: core/options.php:164
+msgid "P.S.:"
+msgstr "P.S.:"
+
+#: core/options.php:165
+msgid "The default templates are located in the plugin folder \"templates\"."
+msgstr ""
+"De standaard templates kun je terugvinden in de \"templates\" map van de "
+"plug-in."
+
+#: core/options.php:170
+msgid "Form connection via shortcode."
+msgstr "Formulier toevoegen met shortcode."
+
+#: core/options.php:172
+msgid ""
+"To show the application form for work in your theme template, insert a short "
+"code."
+msgstr ""
+"Voeg de shortcode toe om het sollicitatieformulier in je thema weer te geven."
+
+#: core/options.php:173
+msgid "Example:"
+msgstr "Voorbeeld:"
+
+#: core/options.php:174
+msgid "- outside the vacancy loop"
+msgstr "- buiten de vacature loop"
+
+#: core/options.php:175
+msgid "- inside the vacancy loop"
+msgstr "- binnen de vacature loop"
+
+#: core/options.php:176
+msgid "- in php code"
+msgstr "- In de PHP code"
+
+#: core/options.php:181
+msgid "Attention"
+msgstr "Attentie"
+
+#: core/options.php:183
+msgid "Do not forget to re-save permanent links (Settings -> Permalinks)."
+msgstr ""
+"Vergeet niet om je permalinks opnieuw op te slaan (Instellingen -> "
+"Permalinks)."
+
+#: core/options.php:184
+msgid "Link to the list of vacancies:"
+msgstr "Link naar het vacaturelijst:"
+
+#: core/options.php:184
+msgid "your site permalink"
+msgstr "jouw website permalink"
+
+#: core/options.php:239
+msgid "Select"
+msgstr "Selecteren"
+
+#: core/options.php:318
+msgid "Vacancy Region"
+msgstr "Vacature regio"
+
+#: core/options.php:319
+msgid "Vacancy Education"
+msgstr "Vacature opleidingsniveau"
+
+#: core/options.php:320
+msgid "Vacancy Type"
+msgstr "Vacature type"
+
+#. Plugin Name of the plugin/theme
+#: core/page-setup.php:35
+msgid "Tigris for Salesforce"
+msgstr "Tigris"
+
+#: core/page-setup.php:51
+msgid "Save settings"
+msgstr "Instellingen opslaan"
+
+#: languages/lang-base.php:30
+msgid ""
+"company specializes in developing software, web development, mobile "
+"application development and web design. While developing and improving "
+"innovative solutions in IT field, we aim at putting maximum efforts in "
+"changing the present and the future of every person and the company for the "
+"better!"
+msgstr ""
+
+#: listener/index.php:170 listener/index.php:273 listener/index.php:384
+msgid "interne"
+msgstr ""
+
+#: templates/category-tigrisvacancies.php:30
+#, php-format
+msgid "Search our %s vacancies"
+msgstr "Bekijk onze %s vacatures"
+
+#: templates/category-tigrisvacancies.php:96
+msgid "Loading..."
+msgstr "Laden..."
+
+#: templates/category-tigrisvacancies.php:97
+msgid "Show more"
+msgstr "Bekijk meer"
+
+#: templates/form-tigrisvacancy.php:41
+msgid "First name"
+msgstr "Voornaam"
+
+#: templates/form-tigrisvacancy.php:48
+msgid "Enter your name."
+msgstr "Vul je naam in."
+
+#: templates/form-tigrisvacancy.php:55
+msgid "Last name"
+msgstr "Achternaam"
+
+#: templates/form-tigrisvacancy.php:63
+msgid "Enter the last name."
+msgstr "Vul je achternaam in."
+
+#: templates/form-tigrisvacancy.php:70
+msgid "Email"
+msgstr "E-mailadres"
+
+#: templates/form-tigrisvacancy.php:78
+msgid "Please enter a valid e-mail."
+msgstr "Vul een geldig e-mailadres in."
+
+#: templates/form-tigrisvacancy.php:85
+msgid "Contact phone"
+msgstr "Telefoonnummer"
+
+#: templates/form-tigrisvacancy.php:93
+msgid "Please enter a valid phone number."
+msgstr "Vul een geldig telefoonnummer in."
+
+#: templates/form-tigrisvacancy.php:106
+msgid "Choose region."
+msgstr "Regio kiezen."
+
+#: templates/form-tigrisvacancy.php:107
+msgid "Choose a location"
+msgstr "Kies een locatie"
+
+#: templates/form-tigrisvacancy.php:124
+msgid "Attach your resume."
+msgstr "Voeg je cv toe."
+
+#: templates/form-tigrisvacancy.php:126
+msgid "CV"
+msgstr "cv"
+
+#: templates/form-tigrisvacancy.php:127
+msgid "Upload"
+msgstr "Uploaden"
+
+#: templates/form-tigrisvacancy.php:130
+msgid "Send application"
+msgstr "Solliciteren!"
+
+#: templates/form-tigrisvacancy.php:140
+msgid "Attach a letter of recommendation."
+msgstr "Voeg een motivatiebrief toe."
+
+#: templates/form-tigrisvacancy.php:142
+msgid "Motivation letter (optional)"
+msgstr "Motivatiebrief (optioneel)"
+
+#: templates/form-tigrisvacancy.php:149
+msgid "Note"
+msgstr "Opmerking"
+
+#: templates/form-tigrisvacancy.php:157
+msgid "Add your comments."
+msgstr "Voeg hier opmerkingen toe."
+
+#: templates/form-tigrisvacancy.php:165
+msgid "I agree to the Terms and Conditions"
+msgstr "Ik ga akkoord met de algemene voorwaarden"
+
+#: templates/form-tigrisvacancy.php:174
+msgid "Accept the Terms and Conditions of the agreement."
+msgstr "Accepteer de algemene voorwaarden om door te gaan."
+
+#: templates/form-tigrisvacancy.php:184
+msgid "Fill in all marked fields."
+msgstr "Vul alle gemarkeerde velden in."
+
+#: templates/form-tigrisvacancy.php:185
+msgid "Upload..."
+msgstr "Uploaden..."
+
+#: templates/form-tigrisvacancy.php:1463
+msgid "Function"
+msgstr "Functie"
+
+#: templates/form-tigrisvacancy.php:1466
+msgid "Find a job …"
+msgstr "Vind een baan …"
+
+#: templates/form-tigrisvacancy.php:1472
+msgid "Place"
+msgstr "Locatie"
+
+#: templates/form-tigrisvacancy.php:1475
+msgid "Region, city or zip code"
+msgstr "Regio, plaats of postcode"
+
+#: templates/form-tigrisvacancy.php:1483
+msgid "Distance"
+msgstr "Afstand"
+
+#: templates/form-tigrisvacancy.php:1510
+msgid "Choose"
+msgstr "Maak een keuze"
+
+#: templates/form-tigrisvacancy.php:1568
+msgid "Search"
+msgstr "Zoeken"
+
+#: templates/form-tigrisvacancy.php:1569
+msgid "Clear filters"
+msgstr "Reset filters"
+
+#: templates/form-tigrisvacancy.php:1569
+msgid "Find a jobby …"
+msgstr "Vind een baan"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.amconsoft.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integration Tigris user application for Salesforce in Wordpress."
+msgstr "Tigris WordPress Plug-in."
+
+#. Author of the plugin/theme
+msgid "Amcon Soft"
+msgstr ""
+
+#~ msgid "Failed to send application for vacancy."
+#~ msgstr "Er is een fout opgetreden met het versturen van de sollicitatie."
+
+#~ msgid "Applicant`s name"
+#~ msgstr "Naam"
